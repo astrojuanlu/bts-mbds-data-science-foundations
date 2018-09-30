@@ -1,0 +1,29 @@
+name: bts36
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - statsmodels
+  - pandas
+  - pyarrow
+  - matplotlib
+  - plotly
+  - spacy
+  - notebook
+  - jupyterlab
+  - nodejs
+  - anaconda-navigator
+  - sqlite
+  - lxml
+  - beautifulsoup4
+  - networkx
+  - python-dateutil
+  - xlrd
+  - ipywidgets
+# - pyramid
+# - fbprophet
+  - scikit-learn
+# - yellowbrick
